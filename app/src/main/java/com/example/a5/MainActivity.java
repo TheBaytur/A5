@@ -8,7 +8,6 @@ import android.view.View;
 import android.widget.ImageButton;
 
 public class MainActivity extends AppCompatActivity {
-
     private ImageButton grunt, raider;
     private MediaPlayer gruntSound, raiderSound;
 
@@ -54,10 +53,10 @@ public class MainActivity extends AppCompatActivity {
 
         sound1.start();
         sound1.setLooping(true);
-    //    sound.seekTo();
+//    sound.seekTo();
     }
 
 }
 
-// Added sounds
+// Added pics & sounds (Grunt and Raider)
 
